@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 
-var markov = require('../node-markov-master');
+var markov = require('../');
 
 var compliments = `You have very smooth hair
 You deserve a promotion
